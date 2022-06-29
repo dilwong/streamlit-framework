@@ -7,7 +7,7 @@ Requests, Heroku, and Bokeh for visualization.
 The repository contains a basic template for a Streamlit configuration that will
 work on Heroku.
 
-A [finished example](https://streamlit-12day-example.herokuapp.com/) that demonstrates some basic functionality.
+A [finished example](https://stock-seeker.herokuapp.com/) that demonstrates some basic functionality.
 
 ## Step 1: Setup and deploy
 - Git clone the existing template repository.
